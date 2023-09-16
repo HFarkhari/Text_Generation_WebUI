@@ -1,4 +1,4 @@
-# Docker Hub Repository: hfarkhari/text_web_ui
+# Simply use Docker Image
 
 🚀 Welcome to the Docker Hub repository for hfarkhari/text_web_ui! This repository hosts a Docker image designed for deploying the text-generation-webui v1.5 application.
 
